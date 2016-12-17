@@ -2,7 +2,7 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-    entry: './app/main.js',
+    entry: './app/javascript/main.js',
     output: { path: __dirname + '/bin', filename: 'bundle.js' },
     module: {
         loaders: [
@@ -15,8 +15,5 @@ module.exports = {
                 }
             }
         ]
-    },
-    devServer: {
-        contentBase: './app',
     },
 };
