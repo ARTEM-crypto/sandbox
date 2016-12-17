@@ -2,8 +2,8 @@ var path = require('path');
 var webpack = require('webpack');
 
 module.exports = {
-    entry: './client/main.js',
-    output: { path: __dirname + '/client', filename: 'bundle.js' },
+    entry: './app/main.js',
+    output: { path: __dirname + '/bin', filename: 'bundle.js' },
     module: {
         loaders: [
             {
@@ -15,5 +15,8 @@ module.exports = {
                 }
             }
         ]
+    },
+    devServer: {
+        contentBase: './app',
     },
 };
