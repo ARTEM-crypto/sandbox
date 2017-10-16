@@ -1,0 +1,7 @@
+D:\Projects\dotnet\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csprojResolveAssemblyReference.cache
+D:\Projects\dotnet\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe.config
+D:\Projects\dotnet\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.exe
+D:\Projects\dotnet\Tic-Tac-Toe\Tic-Tac-Toe\bin\Debug\Tic-Tac-Toe.pdb
+D:\Projects\dotnet\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.exe
+D:\Projects\dotnet\Tic-Tac-Toe\Tic-Tac-Toe\obj\Debug\Tic-Tac-Toe.pdb
