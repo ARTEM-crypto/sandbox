@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/sgurjev/Projects/Python/Enviroments/scraping/bin/python3.7",
+    "files.associations": {
+        "*.csv": "csv (semicolon)"
+    }
+}
